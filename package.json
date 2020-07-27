@@ -1,0 +1,20 @@
+{
+  "name": "heiten-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Tests suck and we will implement them later\" && exit 1",
+    "clean": "rm -rf node_modules dist && npm cache verify",
+    "reset": "npm run clean && npm install && npm start",
+    "start": "echo \"FIXME\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ackentdev/heiten-app.git"
+  },
+  "author": "Adam Kent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ackentdev/heiten-app/issues"
+  },
+  "homepage": "https://github.com/ackentdev/heiten-app#readme"
+}
